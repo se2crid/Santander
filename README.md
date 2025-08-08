@@ -7,4 +7,3 @@ Santander aims to enhance the experience of a file manager on an iOS device, usi
 
 # Notice
 The project is still in beta, and there still quite a lot of bugs to fix & enhancements to make.
-
